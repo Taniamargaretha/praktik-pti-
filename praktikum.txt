@@ -1,4 +1,4 @@
 Git adalah  salah satu sistem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh Linus Torvalds.
 Singkatan dari Group Inclusive Tour, tools ini digunakan untuk mengelola versi source code program dengan cara menentukan baris serta kode yang perlu diganti atau ditambahkan. 
 Lebih lanjut, Git adalah perangkat lunak buatan Linus Torvald yang saat ini digunakan untuk mengelola source code.
-Salah satu keunggulan utama dari Git adalah kecepatannya. Git dirancang untuk bekerja cepat, bahkan pada proyek yang sangat besar sekalipun. Git menggunakan teknik caching dan kompresi data yang efisien sehingga operasi seperti commit, merge, dan branching dapat dilakukan dengan cepat.
+kelemahan git adalah tidak optimal
