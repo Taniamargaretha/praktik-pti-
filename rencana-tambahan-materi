@@ -5,3 +5,4 @@ VCS memiliki beberapa jenis seperti lokal vcs
 VCS Penting karena  VCS memungkinkan mereka untuk berbagi file dengan cara yang mudah. 
 Revision Control System atau RCS mampu mengelola revisi dari banyak file.
 RCS mengotomasi penyimpanan, pengambilan, pencatatan, pemeriksaan, dan penggabungan dari sebuah revisi. RCS berguna untuk teks yang sering direvisi seperti source code, program, dokumentasi, grafik, jurnal, dan surat.
+GIT dikembangkan oleh Linux torvalsdz
