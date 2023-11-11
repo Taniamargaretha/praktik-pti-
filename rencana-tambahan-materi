@@ -2,3 +2,13 @@ Materi Tambahan
 Version control adalah sebuah sistem yang merekam perubahan-perubahan dari sebuah berkas atau sekumpulan berkas dari waktu ke waktu sehingga Anda dapat menilik kembali versi khusus suatu saat nanti
 Git juga dikategorikan sebagai Distributed Version Control System (DVCS) yang berarti sumber kode tidak hanya dimiliki dalam satu penyimpanan pada sebuah software.
 VCS memiliki beberapa jenis seperti lokal vcs
+Version Control adalah sistem yang merekam perubahan-perubahan dari sebuah berkas atau sekumpulan berkas dari waktu ke waktu sehingga dapat menilik kembali versi khusus.
+Fungsi GIT
+GIT mempunyai beberapa  fungsi, yaitu:
+●	Mengelola versi kode sumber
+Fungsi Git adalah memungkinkan para pengembang untuk melacak perubahan pada kode sumber dalam proyek perangkat lunak dan memungkinkan mereka untuk mengembalikan kode sumber ke versi sebelumnya jika terjadi kesalahan atau masalah. 
+●	Meningkatkan kolaborasi dan koordinasi antar tim
+Fungsi Git berikutnya yaitu memungkinkan para pengembang untuk bekerja secara terpisah pada fitur atau bagian kode yang berbeda-beda, sehingga memudahkan koordinasi dan kolaborasi antar tim dalam proyek perangkat lunak. 
+
+●	Membantu organisasi
+GIT dapat membantu organisasi karena dapat menyimpan proyek ke folder dalam bentuk, v1, v2, v3 dan memiliki satu proyek dengan menggunakan database khusus yang berisi semua versi file.
