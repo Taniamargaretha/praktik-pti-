@@ -1,0 +1,11 @@
+hai, saya david izin menambahkan file mengenai materi tambahan perintah dasar git 
+  Perintah Dasar
+Terdapat beberapa perintah dasar pada Git yaitu;
+-	Git-Init : digunakan untuk membuat repository yang ada pada file lokal dan berlokasi di folder .git
+-	Git Status : digunakan untuk mengecek status repository lokal.
+-	Git add : untuk perintah menambahkan file baru ke repository yang baru dipilih.
+-	Git commit : digunakan untuk menyimpan apabila terjadi perubahan dan dilakukan pada repository jarak jauh, namun tidak bisa melakukan perubahan.
+-	Git Push : mentransfer perubahan file ke repository jarak jauh setelah melakukan perubahan.
+-	Git Checkout : Untuk menukar cabang aktif dengan cabang yang dipilih
+-	Git Merge : Menggabungkan cabang aktif dengan cabang yang dipilih
+-	Git clone : membuat salinan repository lokal.
