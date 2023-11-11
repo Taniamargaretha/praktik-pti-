@@ -12,3 +12,7 @@ Fungsi Git berikutnya yaitu memungkinkan para pengembang untuk bekerja secara te
 
 ●	Membantu organisasi
 GIT dapat membantu organisasi karena dapat menyimpan proyek ke folder dalam bentuk, v1, v2, v3 dan memiliki satu proyek dengan menggunakan database khusus yang berisi semua versi file.
+. Kekurangan
+	Selain memiliki kelebihan, GIT juga memiliki kekurangan yaitu
+-	Tidak Optimal dalam pengembang tunggal
+-	Dukungan untuk Windows terbatas dibandingkan dengan Linux
